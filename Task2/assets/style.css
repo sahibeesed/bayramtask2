@@ -1,0 +1,157 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 1px 3px grey;
+    height: 70px;
+   justify-content: space-around;
+   display: flex;
+   
+    
+
+
+
+}
+
+#st {
+    
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    
+
+
+}
+
+#st :hover {
+    font-size: large;
+    background-color: rgb(107, 107, 255);
+    transition: all .2s ease-in;
+
+}
+
+
+
+#Ft :hover {
+    font-size: large;
+    transition: all .2s ease-in;
+
+}
+
+
+
+#dw :hover {
+    font-size: large;
+    transition: all .2s ease-in;
+}
+
+
+
+#sd {
+    font-size: 10px;
+    width: 100px;
+    height: 40px;
+    color: white;
+border: 0;
+background-color: blue;
+    border-radius: 10px;
+}
+#sms{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 0:
+}
+
+.orta{
+    width: 100%;
+    margin: 10px;
+    font-family:"Arial, Helvetica, sans-serif";
+    text-align: center; 
+    font-size: 70px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+#tel{
+   width: 30%;
+   
+    
+}
+.iki{
+    flex-direction: column;
+}
+
+
+.pl{
+    width: 5px;
+    height: 15px;
+}
+
+.merk{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(0, 0, 255);
+    text-align: center;
+    font-size: large;
+    flex-direction: column;
+}
+
+#an{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.asa{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.dv{
+    text-align: center;
+    flex-direction: column;
+}
+
+#ip{
+    width: 40%;
+    height: 450px;
+}
+.fl{
+    text-align: center;
+    flex-direction: column;
+}
+.dn{
+    text-align: center;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+}
+#yer{
+    width: 50%;
+    height: 500px;
+}
+
+.sk{
+    margin: auto;
+}
+.ay{
+    color: white;
+    background-color: rgb(0, 0, 255);
+    width: 100%;
+    height: 170px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.qr{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
