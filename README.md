@@ -1,2 +1,0 @@
-# bayramtask2
-# Youtubetask
